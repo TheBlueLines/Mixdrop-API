@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>TTMC.Mixdrop</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Mixdrop</AssemblyName>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
